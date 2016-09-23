@@ -1,5 +1,6 @@
 var express = require('express');
 var path = require('path');
+var timetable = require('./timetable.json');
 var router = express.Router();
 
 /* GET home page. */
@@ -8,7 +9,7 @@ router.get('/', function(req, res) {
 });
 
 router.get('/timetable', function(req, res) {
-  res.sendFile(path.normalize(__dirname + '/timetable.json'));
+  res.json(timetable);
 });
 
 module.exports = router;
