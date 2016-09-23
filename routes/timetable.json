@@ -1,0 +1,74 @@
+{ "year":"2015-16","timetable":[
+  {"schedule":[
+      {"title":"Tutor Time","start_time":"8:45","subject":"-NA-"},
+      {"id": "203", "title":"Period 1","start_time":"8:55","subject":""},
+      {"title":"Period 2","start_time":"9:50","subject":"Tutor Time"},
+      {"title":"Break","start_time":"10:45","subject":"Break"},
+      {"id": "420", "title":"Period 3","start_time":"11:05","subject":"Forest schools"},
+      {"title":"Period 4","start_time":"12:00","subject":"Forest schools"},
+      {"title":"Lunch","start_time":"12:55","subject":"-NA-"},
+      {"title":"Period 5","start_time":"1:40","subject":"Swimming"},
+      {"title":"Period 6","start_time":"2:35","subject":"Topic"}
+    ]
+  },
+  {"schedule":[
+      {"title":"Tutor Time","start_time":"8:45","subject":"-NA-"},
+      {"id": "203", "title":"Period 1","start_time":"8:55","subject":""},
+      {"title":"Period 2","start_time":"9:50","subject":"Tutor Time"},
+      {"title":"Break","start_time":"10:45","subject":"Break"},
+      {"id": "420", "title":"Period 3","start_time":"11:05","subject":"Forest schools"},
+      {"title":"Period 4","start_time":"12:00","subject":"Forest schools"},
+      {"title":"Lunch","start_time":"12:55","subject":"-NA-"},
+      {"title":"Period 5","start_time":"1:40","subject":"Swimming"},
+      {"title":"Period 6","start_time":"2:35","subject":"Swimming"}
+    ]
+  },
+  {"schedule":[
+      {"title":"Tutor Time","start_time":"8:45","subject":"-NA-"},
+      {"id": "203", "title":"Period 1","start_time":"8:55","subject":""},
+      {"title":"Period 2","start_time":"9:50","subject":"Tutor Time"},
+      {"title":"Break","start_time":"10:45","subject":"Break"},
+      {"id": "420", "title":"Period 3","start_time":"11:05","subject":"Forest schools"},
+      {"title":"Period 4","start_time":"12:00","subject":"Forest schools"},
+      {"title":"Lunch","start_time":"12:55","subject":"-NA-"},
+      {"title":"Period 5","start_time":"1:40","subject":"Swimming"},
+      {"title":"Period 6","start_time":"2:35","subject":"Topic"}
+    ]
+  },
+  {"schedule":[
+      {"title":"Tutor Time","start_time":"8:45","subject":"-NA-"},
+      {"id": "203", "title":"Period 1","start_time":"8:55","subject":""},
+      {"title":"Period 2","start_time":"9:50","subject":"Tutor Time"},
+      {"title":"Break","start_time":"10:45","subject":"Break"},
+      {"id": "420", "title":"Period 3","start_time":"11:05","subject":"Forest schools"},
+      {"title":"Period 4","start_time":"12:00","subject":"Forest schools"},
+      {"title":"Lunch","start_time":"12:55","subject":"-NA-"},
+      {"title":"Period 5","start_time":"1:40","subject":"Swimming"},
+      {"title":"Period 6","start_time":"2:35","subject":"Topic"}
+    ]
+  },
+  {"schedule":[
+      {"title":"Tutor Time","start_time":"8:45","subject":"-NA-"},
+      {"id": "203", "title":"Period 1","start_time":"8:55","subject":""},
+      {"title":"Period 2","start_time":"9:50","subject":"Tutor Time"},
+      {"title":"Break","start_time":"10:45","subject":"Break"},
+      {"id": "420", "title":"Period 3","start_time":"11:05","subject":"Forest schools"},
+      {"title":"Period 4","start_time":"12:00","subject":"Forest schools"},
+      {"title":"Lunch","start_time":"12:55","subject":"-NA-"},
+      {"title":"Period 5","start_time":"1:40","subject":"Swimming"},
+      {"title":"Period 6","start_time":"2:35","subject":"Topic"}
+    ]
+  },
+  {"schedule":[
+      {"title":"Tutor Time","start_time":"8:45","subject":"-NA-"},
+      {"id": "203", "title":"Period 1","start_time":"8:55","subject":""},
+      {"title":"Period 2","start_time":"9:50","subject":"Tutor Time"},
+      {"title":"Break","start_time":"10:45","subject":"Break"},
+      {"id": "420", "title":"Period 3","start_time":"11:05","subject":"Forest schools"},
+      {"title":"Period 4","start_time":"12:00","subject":"Forest schools"},
+      {"title":"Lunch","start_time":"12:55","subject":"-NA-"},
+      {"title":"Period 5","start_time":"1:40","subject":"Swimming"},
+      {"title":"Period 6","start_time":"2:35","subject":"Topic"}
+    ]
+  }
+]}
